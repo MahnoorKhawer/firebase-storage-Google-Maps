@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "615213173972",
+    "project_id": "woven-rush-413614",
+    "storage_bucket": "woven-rush-413614.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615213173972:android:65e78a2a5f5d5857e2ff41",
+        "android_client_info": {
+          "package_name": "com.example.maps_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfTc8lo-oiyAht8wRKB_DAk7Vuw2a4J80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
